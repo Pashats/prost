@@ -12,7 +12,7 @@ padding: 10px;
 .cino{
      text-decoration:dotted ;
      font-size: 50px;
-     padding: 10px;
+     padding: 5px;
      color: #ab92b1;
      border:dashed rgb(82, 55, 99);
      text-align: center;
@@ -65,8 +65,8 @@ a:hover{
      text-align: center;
 background-color: #96e9a0;
 border-radius: 50px;
-margin: 7px;
-padding: 10px;
+margin: 5px;
+padding: 7px;
 font-size: 70px;
 }
 .h2:hover{
@@ -231,4 +231,7 @@ button {
 .Film1{
   font-family:'Courier New', Courier, monospace; 
   font-size: 20px;
+}
+nav{
+  text-align: center;
 }
